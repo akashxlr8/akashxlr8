@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashxlr8)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashxlr8)](https://github.com/akashxlr8/github-readme-stats)
+
+[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashxlr8)](https://github.com/akashxlr8/github-readme-stats)
