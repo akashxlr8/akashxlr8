@@ -9,6 +9,6 @@ akashxlr8/akashxlr8 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://komarev.com/ghpvc/?username=akashxlr8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashxlr8)](https://github.com/akashxlr8/github-readme-stats)
 
-[![Akash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akashxlr8)](https://github.com/akashxlr8/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=niloysikdar&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akashxlr8&layout=compact&theme=dracula" />
