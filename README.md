@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](https://komarev.com/ghpvc/?username=akashxlr8)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=niloysikdar&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashxlr8&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akashxlr8&layout=compact&theme=dracula" />
