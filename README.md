@@ -43,7 +43,7 @@ I build scalable AI systems (RAG, agents, multimodal chatbots) that turn cutting
 
 | Project                                    | Description                                                                                                                                      |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 📈 **Graph DB Chatbot Agent** | An autonomous agent that translates natural language into Cypher queries, enabling intuitive interaction with Neo4j graph databases. *(Insert GIF/demo)* |
+ 📈 [**Graph DB Chatbot Agent**](https://github.com/akashxlr8/neo4j) | An autonomous agent that translates natural language into Cypher queries, enabling intuitive interaction with Neo4j graph databases
 | ⚡ **content creation agent** | A collection of advanced tools for building state-of-the-art RAG systems, featuring custom retrieval strategies and multi-agent workflows. *(Insert diagram)* |
 
 ---
